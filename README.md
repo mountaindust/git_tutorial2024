@@ -1,6 +1,6 @@
-# This is a git tutorial
+# Thii is a git tutorial
 
-Here are some words for the readme.
+Here is a better description!
 
 - Bannana
 - Blueberries
