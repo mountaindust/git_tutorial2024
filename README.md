@@ -1,6 +1,6 @@
 # This is a git tutorial
 
-Here are some words for the readme.
+Here are other words.
 
 - Bannana
 - Blueberries
